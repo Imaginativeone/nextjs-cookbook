@@ -12,11 +12,23 @@
 
 #### Installing and Using npm and the Latest Version of NodeJS
 
-### Introduction
-### Introduction
-### Introduction
-### Introduction
-### Introduction
+#### For the Older npm Versions
+
+### How to Customize Webpack
+
+#### How to Use TypeScript in NextJS
+
+#### How to Use SCSS in NextJS
+
+#### How to Enable and Use Styled Components
+
+### How to Create a Multipage App
+
+### How to Change Pages - Routing Tools
+
+### How to Change to Page Param's State Without Running Data Fetching Methods
+
+### Conclusion
 
 - Chapter 02: Using Design Patterns in NextJS
 - Chapter 03: Authorization in a Glance with NextJS
