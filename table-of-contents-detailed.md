@@ -3,10 +3,15 @@
 ## Chapter 01: Warming up with NextJS
 
 ### Introduction
-### Introduction
-### Introduction
-### Introduction
-### Introduction
+
+### Structure
+
+### Objectives
+
+### Setup and Run NextJS
+
+#### Installing and Using npm and the Latest Version of NodeJS
+
 ### Introduction
 ### Introduction
 ### Introduction
